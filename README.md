@@ -7,3 +7,7 @@
     public static Money operator -(Money a, Money b) — вычитает суммы.
     public static Money operator -(Money a) — унарный минус, возвращает сумму с противоположным знаком.
     Переопределите ToString(), например: "125,50 руб." (для отрицательной суммы — со знаком минус).
+
+
+    <img width="585" height="246" alt="изображение" src="https://github.com/user-attachments/assets/aa2ec59f-2674-40d4-8c6d-beacf0d71719" />
+
